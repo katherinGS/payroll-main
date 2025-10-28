@@ -1,3 +1,5 @@
+export default function Page() {
+return (
 <div className="min-h-screen bg-gray-100 p-8 flex flex-col items-center">
 
 <h1 className="text-5xl text-blue-500 mb-2 mt-4">
